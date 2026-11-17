@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<relatorioAnalise xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <amostra>
+    <idAmostra>BIO-2026-9981</idAmostra>
+    <tipoMaterial>Tecido Epitelial Criopreservado</tipoMaterial>
+    <dataColeta>2026-11-17</dataColeta>
+  </amostra>
+  <responsavel>
+    <nomeCientista>Dra. Helena Vasconcelos</nomeCientista>
+    <registroProfissional>CRBio-04/88412-D</registroProfissional>
+  </responsavel>
+  <resultados>
+    <componente>Proteína p53 Recombinante</componente>
+    <componente>Enzima Polimerase Taq</componente>
+    <componente>Marcador Fluorescente GFP</componente>
+  </resultados>
+</relatorioAnalise>

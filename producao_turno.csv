@@ -1,0 +1,6 @@
+﻿numeroLote;tipoLiga;pesoTotal;temperaturaFundicao;statusQualidade
+1001;Aço Inox 316L;4500.50;1420.0;Aprovado
+1002;Titânio Grau 5;1200.00;1660.5;Aprovado
+1003;Aço Carbono 1045;6800.75;1510.2;Em Análise
+1004;Liga de Níquel Inconel;980.30;1395.8;Aprovado
+1005;Aço Ferramenta D2;3100.00;1480.0;Reprovado
